@@ -57,7 +57,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthpydeti&layout=compact&theme=tokyonight" alt="yeswanthpydeti" />
 </p>
-
+### 🚀 My Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🎒 Lost & Found Website** | A web app for managing and reporting lost items in colleges. | React, Node.js, Express, MongoDB |
+| **📝 PowerX** | Developed a data-driven fitness platform with diet logging, calorie tracking, interactive analytics, and AI-powered exercise recommendations, optimizing backend with Node.js, Express, MongoDB for 50% faster APIs, and delivering a responsive React.js frontend with 45% faster load times and improved user engagement. | React, Node.js, Express, MongoDB |
+| **📧 Fresh On Wheels** | Engineered a responsive menu and cart system with real-time order updates, optimized backend using Node.js, Express, and MongoDB for 50% faster APIs, integrated Stripe for secure payments, and built an admin panel for managing products, orders, and users. |React, Node.js, Express, Stripe API |
+| **🌐 Portfolio Website** | Personal portfolio showcasing projects and skills. | HTML, CSS, JavaScript |
 ---
 
 ### 🔗 Connect with me
