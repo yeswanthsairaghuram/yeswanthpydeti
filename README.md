@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Lost & Found Web App**, **PowerX Fitness App**, **Fresh On Wheels**, and **ServiceNow Integrations**.
-- 🌱 Learning **Spring Boot**, **Microservices**, and **Cloud Technologies**.
 - 👯 Looking to collaborate on **Open Source Projects** and **Full Stack Applications**.
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Java, and ServiceNow**.
 - 📫 Reach me at **yaswanthsairaghuram@gmail.com**.
@@ -60,7 +59,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeswanthpydeti/" target="_blank">
+  <a href="www.linkedin.com/in/yeswanth-pydeti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yaswanthsairaghuram@gmail.com" target="_blank">
